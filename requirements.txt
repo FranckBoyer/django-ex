@@ -1,5 +1,5 @@
 pip>=19.3.1
 django>=2.2<=2.3
-gunicorn==19.4.5
-psycopg2==2.7.3.1
-whitenoise==3.3.1
+gunicorn
+psycopg2
+whitenoise
