@@ -6,7 +6,6 @@ rc=$?
 
 if [ $rc -eq 0 ]; then
     echo "After successful assembling"
-    yum install texlive-bin
 else
     echo "After failed assembling"
 fi
